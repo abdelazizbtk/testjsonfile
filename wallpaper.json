@@ -19,30 +19,619 @@
 		},
 
 		"items": [{
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}, {
-			"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
-		}]
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile11.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile10.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile09.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile08.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile07.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile06.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile05.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile04.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile03.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile02.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/1009/mobile01.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/fbeb47f5ffd07b889dc793439ef8dcb4jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/c79d52333cad7c1cc375581cf57c1250jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e92fb296b84b5eab11994366a65492abjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/fd59c8e3b3db62733106c1178b3feef9jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/55e6fe07fd7c7e6483578fde6d90cf37jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/a961bb3d841bb2467ac5b5ca965a54e9jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/4f459ca1a15588940be89c1c5a976faajpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/01d12f5fa8d6e98a56f5143c04332352jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/0934ec3488a9b04d7f6577eb6ad1e76ejpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/c10b726c76ec820892b3924bd9f9376djpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/351701cba706dfbefd14ed96ea6463b5jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/53e8d283e122fb7d2765807562515ee0jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/0f67731613206917368c788ed4fe720fjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/69476f7256ff6d9984415739084f3bfdjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/2f554e57cd4d4068260c614cd4865d85jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/052e74d3f740496cff16064b032f0cc2jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/cd054a2739fc37d03755387464306cf1jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/1a087034c604f8ad0f858bb400b88bc1jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/cbc33c22ff6a424095e066f1e1d7bffbjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/dd7f3db4eca82910b6529f8546e9bda3jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/36dd67951bef7fc1c7b6fc9c1d738413jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e795aab511c47da22566c06af1a28322jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/07ec52c1bb8d564d36c29baa94c9863fjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/09f7f77bc144748badd7d0b5983a85cejpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/77dd5d3147a2f68abc6e45adb47639f2jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/6a82e4d2ce20c28d6b9e930a75ac5fdejpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e5356ee42b4ca2aa249300df157074cejpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile9.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile8.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile7.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile6.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile5.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile4.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile3.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile2.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/0518/mobile1.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/fe0383a23dd030e9ced48f067f3b5cecjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/26c8a9f366e71f933d1188f51c1e2cccjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/4ea1340eec53fefcc749679458210bcfjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/0fb142d1497df9dc1a672d682cf97f0bjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e7ff04c5f5c4b6f3f0ca0add28fb527bjpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/3d22829119faf95ae7293fb3838357d5jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/e3287f5b8a7b002c8deadf86328b1d1ejpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/54fcacff59dd20decf0158758d8f1182jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/dfc7a2baac3955b91679e3f9294dd743jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/27f8f001a3563b3fe82b15f9f25a5f00jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/hash/656171103b79879f306b88a7100d4bb9jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/078.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/077.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/076.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/075.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/074.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/073.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/072.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/071.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/070.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/069.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/068.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/067.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/066.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/065.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/064.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/063.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/062.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/061.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/060.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/059.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/058.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/057.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/056.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/055.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/054.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/053.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/052.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/051.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/050.jpg"
+			},
+			{
+				"image": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/049.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/048.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/047.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/046.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/045.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/044.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/043.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/042.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/041.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/040.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/039.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/038.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/037.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/036.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/034.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/033.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/032.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/031.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/030.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/029.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/028.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/027.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/026.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/025.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/024.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/023.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/021.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/020.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/019.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/018.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/017.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/016.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/015.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/014.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/012.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/011.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/010.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/009.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/008.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/007.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/006.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/005.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/004.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/003.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/002.jpg"
+			},
+			{
+				"image": "https://dl.dir.freefiremobile.com/common/web_event/officialwebsite/wallpapers/mobile/001.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/073.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/072.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/071.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/070.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/069.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/068.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/067.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/066.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/065.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/064.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/063.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/062.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/061.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/060.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/059.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/058.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/057.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/056.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/055.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/053.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/052.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/051.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/050.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/049.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/048.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/047.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/046.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/045.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/044.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/043.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/042.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/041.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/040.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/039.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/037.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/036.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/035.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/034.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/033.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/032.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/031.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/030.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/029.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/028.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/027.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/026.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/025.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/024.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/023.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/022.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/021.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/020.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/019.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/018.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/017.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/016.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/015.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/014.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/013.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/001.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/002.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/003.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/004.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/005.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/006.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/007.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/008.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/009.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/010.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/011.jpg"
+			},
+			{
+				"image": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/mobile/012.jpg"
+			}
+
+		]
 
 	}
 }
